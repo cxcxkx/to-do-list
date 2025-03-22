@@ -1,39 +1,31 @@
-📋 To-Do List App
+# 📋 To-Do List App
 
 A simple and interactive To-Do List application built using HTML, CSS, and JavaScript. This project helps users manage their daily tasks efficiently with an easy-to-use interface.
 
-🚀 Technologies Used
+## 🚀 Technologies Used
 
-HTML5 – Semantic structure (<input>, <button>, <ul>)
+- **HTML** - Semantic structure (<input>, <button>, <ul>)
 
-CSS3 – Custom styling and responsive layout
+- **CSS** -  Custom styling and responsive layout
 
-JavaScript – DOM manipulation and local storage
+- **JavaScript** - DOM manipulation and local storage
 
-🎨 Screenshot
-(screenshot.png)
+## 🎨 Screenshot
+![to-do-list Screenshot](screenshot.png)
 
-🔗 Live Demo
+## 🔗 Live Demo
+➡ [View the Project]https://cxcxkx.github.io/to-do-list/
 
-➡ View the Project: https://cxcxkx.github.io/to-do-list/
+## 📂 Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/cxcxkx/to-do-list.git
 
-📂 Installation
+## 📌 Features
 
-Clone the repository:
-
-git clone https://github.com/cxcxkx/to-do-list.git
-
-Navigate to the project folder:
-
-cd todo-list-app
-
-Open index.html in a browser.
-
-📌 Features
-
-✅ Add tasks to the list
-✅ Mark tasks as completed
-✅ Delete tasks from the list
-✅ Save tasks in local storage
-✅ Minimalistic and modern UI
+- **✅** -  Add tasks to the list
+- **✅** -  Mark tasks as completed
+- **✅** -  Delete tasks from the list
+- **✅** -  Save tasks in local storage
+- **✅** -  Minimalistic and modern UI
 
